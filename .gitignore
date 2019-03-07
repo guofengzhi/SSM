@@ -1,4 +1,8 @@
+target
 .class
+.project
 .idea
 .project
-target
+.settings
+.classes
+.mvn
