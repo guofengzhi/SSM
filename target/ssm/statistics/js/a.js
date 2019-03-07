@@ -1,3 +1,0 @@
-function ww() {
-	alrt('ddddddd');
-}
